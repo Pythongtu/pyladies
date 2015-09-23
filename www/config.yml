@@ -590,3 +590,14 @@ chapters:
             latitude: 38.8949549
             longitude: -77.0366456
 
+- name:      India,Gujarat
+      meetup_id: 
+      website: http://gtu.pyladies.com
+      external_website: clubs.gtu.ac.in
+      image: pyladies_boston_logo_2_white.png
+      email: gtu@pyladies.com
+      twitter: GTUPython
+      meetup: gtupython
+      location:
+            latitude: 23.1059° N
+            longitude: 72.5938° E
